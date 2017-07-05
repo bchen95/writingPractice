@@ -1,0 +1,30 @@
+# D33 Personal History
+Life is made up of choices. Every choice is a process of growth. It was the experience that makes me a person with longing for life and social responsibility.
+ 
+### AWAKENING IN THE LOST
+ 
+The latest hot TV series Westworld depicts the course of robots' self-awakening. The robots, besieged in an amusement park, are physically indistinguishable from human beings. Yet, they have no idea of their immersion within the well-set loop day in and day out. Later, beginning to quest about their existence, some of them embark on a journey of self-consciousness.
+ 
+I, myself, have experienced such a journey of awakening as well. I was born in a third-tier city in China. Civil servants and employees of state-owned enterprise are considered the best jobs in my hometown, stable and respected. For this pursuit, many of my peers returned to the small and tranquil city after graduation. I almost strode the same path. As my family's expectation, and chose Automation as my major out of its high public recognition, instead of real love. However, my undergraduate life marked a turning point. Just as the protagonist of the Westworld awakens in the great anguish of memory, I woke up for the emptiness and confusion after the end of Gaokao, a certain goal for many years. I gained back the control of my time, as well as the mental freedom, thus I began questioned the stationary loop. These days, of course, were painful, but also an opportunity to re-examine myself.
+ 
+It was from books that I gained the courage and wisdom to choose the road less traveled by. Literature gives me the freedom of spiritual choice and the imagination of other possibilities of life. A Chinese growing up among Confucian's collectivism could find liberty in the American's individualism. The "Beat Generation" could learn the inaction and balance of wisdom in eastern culture too. In many stages of life, books have endowed me with endless strength and inspiration, impelling me to confront my shortcomings and own good, and gradually unearthing my passion on computer science.
+ 
+Gender Identity  
+ 
+With the reform and opening up policy, great changes have taken place in Chinese families. Even though we enjoy an excellent standard of living and a fine education now, some people still act like out of date. For example, some parents prefer boys to girls.
+
+It seems like a "common sense" to some parents and teachers that girls are always inferior to boys in some aspects. For instance, girls cannot do well in math just like boys. Unluckily, I grew up under this circumstance, convinced that I cannot do well in math like boys until I first read Psychology and Life wrote by Philip G.Zimbardo. I found self-fulfilling prophecy and suddenly realized that it was not because I was born as a girl so I couldn’t do well in math, it was because in the very beginning I thought I couldn’t do well in math, and this thought was imposed by others. From then on, I regained courage to learn math. I studied hard and tried different ways to improve my math grades and chose to study engineering, a major that was also regarded as difficult for girls. In the meanwhile, I also learned the importance of critical thinking in one's work and life.
+
+Due to this experience, I realize the established labels for culture, race and gender not only affect self-identity, but also affect our perspectives to other people. It's like viewing the world through a single-focus lens. I believe that interacting with people different from ourselves increases our knowledge base, liberates ourselves from the tunnel vision of an ethnocentric and egocentric viewpoint. I appreciate NYU's respect to diversity and I am really looking forward to studying in a multicultural university. 
+ 
+### RESPONSIBILITY FOR THE SOCIETY
+ 
+I had a valuable experience helping to increase the educational access of a diverse group. Since the beginning of reform and opening-up in China, more and more rural residents came to the urban society for jobs, bringing along their children, most of who are unable to attend a local school for city residents as they don't have registered identity at a city. So they have to study at those special schools which, with a limitation in academic conditions and faculty, are mainly set up for children of city migrants.
+ 
+I once volunteered as a teacher every week for a year at Changhong Elementary School in Guangzhou, a school of that special kind. I found that students at the school had lacks of both good academic environment and personal vision. Some students didn't even plan to go to senior high school.
+ 
+Although I cannot change their economic situation, I tried to broaden their horizon by helping them develop reading habits. I always took books to them and told them how to access to library, thus explore a bigger world lest being trapped in the family matters. Besides, I showed them around at the university I attended and encouraged them to work hard and continue their education, because some parents would require their children in poor grade performance to find a job even though they are very young. I feel quite delighted that some students in good contact with me have been in their junior middle school life and that they desire to pursue college education.
+ 
+More importantly, through the one-year teaching, I came to know the intensive need of teachers and the disproportionate education resources. Intrigued by online courses like MOOC, I rested the hope on the development of computer science, a tool to create new miracles. Today's network teaching is still in the stage of comparison. There is still a large space on the VR, interaction. To achieve this, there is still a long way for me.
+ 
+At this moment, the decision to graduate study in the United States, is no longer an obedience to others’ arrangements, but a positive choice after full consideration and recognition. I believe NYU will nature me into a computer Engineer and allows me to employ professional and foremost knowledge to help those in need, like the children in Changhong, through unremitting efforts on technical innovation.
