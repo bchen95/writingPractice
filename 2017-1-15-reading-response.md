@@ -1,4 +1,4 @@
-# Day 2 读后感
+# D2 读后感
 ### 阅读原文书的一些体会
 
 刚看了三分之一的_How to win friends and influence people_，就是著名的《人性的弱点》，这本原文书是五年前买的，第一章查了无数生词放弃了，同一个结局的还有Harry Potter最后一本。
